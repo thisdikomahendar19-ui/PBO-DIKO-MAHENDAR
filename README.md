@@ -1,4 +1,3 @@
-# PBO-DIKO-MAHENDAR
 # PBO-PerpustakaanDigital
 
 Sistem Informasi Perpustakaan Digital - Aplikasi Desktop berbasis Java
@@ -193,7 +192,7 @@ Project ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) un
 
 ## 📧 Kontak
 
-Nama Lengkap - [@username](https://github.com/username)
+Nama Lengkap - [DIKOMAHENDAR](https://github.com/thisdikomahendar19-ui/PBO-DIKO-MAHENDAR)
 
 Project Link: [https://github.com/username/PBO-PerpustakaanDigital](https://github.com/username/PBO-PerpustakaanDigital)
 
@@ -207,3 +206,4 @@ Project Link: [https://github.com/username/PBO-PerpustakaanDigital](https://gith
 ---
 
 Dibuat dengan ❤️ untuk tugas Pemrograman Berorientasi Objek
+
