@@ -183,8 +183,6 @@ Kontribusi sangat diterima! Untuk berkontribusi:
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
-## 📝 Lisensi
-
 
 
 ## 📧 Kontak
