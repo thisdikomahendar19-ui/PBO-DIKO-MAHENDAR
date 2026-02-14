@@ -72,7 +72,7 @@ Sebelum menjalankan aplikasi, pastikan sudah terinstal:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/PBO-PerpustakaanDigital.git
+git clone https://github.com/dicomahendar/PBO-PerpustakaanDigital.git
 cd PBO-PerpustakaanDigital
 ```
 
@@ -154,27 +154,24 @@ PBO-PerpustakaanDigital/
 ## 📊 Diagram UML
 
 ### Class Diagram
-![Class Diagram](docs/UML/class-diagram.png)
+![Class Diagram](docs/images/class-diagram.png)
 
 ### Use Case Diagram
-![Use Case Diagram](docs/UML/usecase-diagram.png)
+![Use Case Diagram](docs/images/usecase-diagram.png)
 
 ### Entity Relationship Diagram (ERD)
-![ERD](database/ERD.png)
+![ERD](docs/images/erd.png)
 
 ## 🖼️ Screenshot Aplikasi
 
 ### Login
-![Login](docs/images/login.png)
+![Login](docs/images/screenshot-login.png)
 
 ### Dashboard
-![Dashboard](docs/images/dashboard.png)
+![Dashboard](docs/images/screenshot-dashboard.png)
 
 ### Manajemen Buku
-![Buku](docs/images/buku.png)
-
-### Peminjaman
-![Peminjaman](docs/images/peminjaman.png)
+![Buku](docs/images/screenshot-manajemen-buku.png)
 
 ## 🤝 Kontribusi
 
@@ -186,12 +183,15 @@ Kontribusi sangat diterima! Untuk berkontribusi:
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
+## 📝 Lisensi
+
+
 
 ## 📧 Kontak
 
-Nama Lengkap - [DIKOMAHENDAR](https://github.com/thisdikomahendar19-ui/PBO-DIKO-MAHENDAR)
+Dico Mahendar - [@dicomahendar](https://github.com/dicomahendar)
 
-Project Link: [https://github.com/username/PBO-PerpustakaanDigital](https://github.com/username/PBO-PerpustakaanDigital)
+Project Link: [https://github.com/dicomahendar/PBO-PerpustakaanDigital](https://github.com/dicomahendar/PBO-PerpustakaanDigital)
 
 ## 🙏 Acknowledgments
 
@@ -202,5 +202,6 @@ Project Link: [https://github.com/username/PBO-PerpustakaanDigital](https://gith
 
 ---
 
-Dibuat dengan ❤️ untuk tugas Pemrograman Berorientasi Objek
+**Project by Dico Mahendar** | [GitHub](https://github.com/dicomahendar) | 2026
 
+Dibuat dengan ❤️ untuk tugas Pemrograman Berorientasi Objek
